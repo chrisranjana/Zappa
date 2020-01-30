@@ -17,6 +17,9 @@
 
 - [About](#about)
 - [Installation and Configuration](#installation-and-configuration)
+Ask out team to Install Django serverless on aws lambda.
+- [oython django serverless lambda developer team](https://www.chrisranjana.com/django-python-programmers/django-python-programmers.html)
+
   - [Running the Initial Setup / Settings](#running-the-initial-setup--settings)
 - [Basic Usage](#basic-usage)
   - [Initial Deployments](#initial-deployments)
